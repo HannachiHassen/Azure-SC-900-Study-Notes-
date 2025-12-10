@@ -4,6 +4,10 @@
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft-Learn-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Cyber Security GIF">
+</p>
+
 > Repository containing **comprehensive SC-900 study notes** based on Microsoft’s official learning path.  
 > Ideal for exam preparation and reference for cloud security, compliance, and identity fundamentals.
 
@@ -32,6 +36,17 @@ Notes are structured for **easy navigation and revision**.
 | **Module 4: Microsoft Compliance Solutions** | Microsoft Purview, compliance management, information protection, governance, and risk. |
 
 > Each module includes notes, diagrams, examples, and exam tips.
+
+---
+
+## 📊 Study Progress Tracker
+
+| Module | Status |
+|--------|--------|
+| Module 1: SCI Concepts | ✅ Completed |
+| Module 2: Identity & Access | ⚡ In Progress |
+| Module 3: Security Solutions | ⚡ In Progress |
+| Module 4: Compliance Solutions | ⏳ Not Started |
 
 ---
 
@@ -90,4 +105,6 @@ This repository is for **personal learning and reference purposes only**. Conten
 
 ## ✨ Fun Cyber Separator
 
-
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="400" alt="Cyber Divider GIF">
+</p>

@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Cyber Security GIF">
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="400" alt="Cyber Divider GIF">
 </p>
 
 > Repository containing **comprehensive SC-900 study notes** based on Microsoft’s official learning path.  
@@ -102,9 +102,10 @@ This repository is **open for personal improvement and collaborative study**:
 This repository is for **personal learning and reference purposes only**. Content is based on **Microsoft official learning materials**.  
 
 ---
-
+<!--
 ## ✨ Fun Cyber Separator
-
+<!--
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="400" alt="Cyber Divider GIF">
-</p>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Cyber Security GIF">
+</p> 
+-->

@@ -35,6 +35,59 @@ Notes are structured for **easy navigation and revision**.
 
 ---
 
-## 📝 Notes Structure
+Each module file contains:  
+
+- Key definitions & concepts  
+- Diagrams and flowcharts (ASCII or image)  
+- Real-world examples  
+- Exam-focused tips  
+
+---
+
+## 🔗 Resources
+
+- [Microsoft SC-900 Official Learning Path](https://learn.microsoft.com/en-us/certifications/exams/sc-900)  
+- [Microsoft Documentation](https://learn.microsoft.com/en-us/)  
+- Microsoft security blogs & updates  
+
+---
+
+## 💡 Study Tips
+
+1. **Review daily** to reinforce knowledge.  
+2. **Create flashcards** for key terms like MFA, RBAC, DLP, and Zero Trust.  
+3. **Practice with Microsoft Learn labs** for hands-on understanding.  
+4. **Summarize diagrams** in your own words for better retention.  
+5. **Track progress** by marking completed modules in the repo.  
+
+---
+
+## 🌟 Key Exam Points
+
+- **Zero Trust Principles**: Verify explicitly, least privileged access, assume breach  
+- **Identity Protection**: MFA, Conditional Access, identity governance  
+- **Microsoft Security Stack**: Microsoft Defender, Sentinel, Defender for Cloud  
+- **Compliance & Risk**: Data Loss Prevention (DLP), Insider Risk Management, Microsoft Purview  
+
+> Focus on understanding concepts, not memorization.
+
+---
+
+## 📂 Contributions
+
+This repository is **open for personal improvement and collaborative study**:
+
+- Submit PRs for corrections, improvements, or additional diagrams  
+- Use GitHub Issues for discussion, exam tips, or module questions  
+
+---
+
+## 📌 License
+
+This repository is for **personal learning and reference purposes only**. Content is based on **Microsoft official learning materials**.  
+
+---
+
+## ✨ Fun Cyber Separator
 
 

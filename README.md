@@ -41,12 +41,15 @@ Notes are structured for **easy navigation and revision**.
 
 ## 📊 Study Progress Tracker
 
-| Module | Status |
-|--------|--------|
-| Module 1: SCI Concepts | ✅ Completed |
-| Module 2: Identity & Access | ⚡ In Progress |
-| Module 3: Security Solutions | ⚡ In Progress |
-| Module 4: Compliance Solutions | ⏳ Not Started |
+![Progress](https://img.shields.io/badge/SC--900%20Progress-40%25-yellow?style=for-the-badge)
+
+| Module | Status | Badge |
+|--------|--------|--------|
+| Module 1: SCI Concepts | ✅ Completed | ![](https://img.shields.io/badge/Done-100%25-brightgreen?style=flat-square) |
+| Module 2: Identity & Access | ⚡ In Progress | ![](https://img.shields.io/badge/Progress-50%25-yellow?style=flat-square) |
+| Module 3: Security Solutions | ⚡ In Progress | ![](https://img.shields.io/badge/Progress-5%25-orange?style=flat-square) |
+| Module 4: Compliance Solutions | ⏳ Not Started | ![](https://img.shields.io/badge/0%25-grey?style=flat-square) |
+
 
 ---
 
